@@ -56,6 +56,17 @@ To set your preferred font family, add the following lines to your `settings.jso
 
 ![js](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme/blob/main/1.png)
 
+### Manual Installation (Using .vsix File)
+
+1. Download the `.vsix` file from the [GitHub](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme/tree/main) section.
+2. Open Visual Studio Code.
+3. Install the `.vsix` file:
+   - Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+   - Type **Install from VSIX** and select the downloaded file.
+4. Activate the theme:
+   - Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+   - Type **Preferences: Color Theme** and select **Mystic Nebula Night**.
+
 ## Feedback and Support
 
 We’d love to hear your thoughts! Share your feedback, report issues, or suggest features by opening an issue in our [GitHub Repository](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme).
