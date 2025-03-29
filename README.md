@@ -58,4 +58,4 @@ To set your preferred font family, add the following lines to your `settings.jso
 
 ## Feedback and Support
 
-We’d love to hear your thoughts! Share your feedback, report issues, or suggest features by opening an issue in our GitHub Repository.
+We’d love to hear your thoughts! Share your feedback, report issues, or suggest features by opening an issue in our [GitHub Repository](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme).
