@@ -3,6 +3,10 @@
   "displayName": "Mystic Nebula Night",
   "description": "A dark theme with a cosmic touch, designed for focused and elegant coding session.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -20,10 +24,6 @@
     "configurationDefaults": {
       "editor.fontFamily": "'Fira Code','Cascadia code','Times New Roman',Consolas, 'Courier New', monospace",
       "editor.fontLigatures": true
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme"
     }
   }
 }
