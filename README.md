@@ -42,19 +42,19 @@ To set your preferred font family, add the following lines to your `settings.jso
 
 ### React
 
-![react](./2.png)
+![react](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme/blob/main/2.png)
 
 ### HTML
 
-![HTML](./4.png)
+![HTML](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme/blob/main/4.png)
 
 ### JSON
 
-![json](./3.png)
+![json](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme/blob/main/3.png)
 
 ### JavaScript
 
-![js](./1.png)
+![js](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme/blob/main/1.png)
 
 ## Feedback and Support
 
