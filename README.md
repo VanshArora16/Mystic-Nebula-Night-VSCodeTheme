@@ -67,6 +67,16 @@ To set your preferred font family, add the following lines to your `settings.jso
    - Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
    - Type **Preferences: Color Theme** and select **Mystic Nebula Night**.
 
+## Recommended Settings
+
+To enhance the experience with the **Mystic Nebula Night** theme, consider adding the following to your settings:
+
+```json
+"editor.fontSize": 16,
+"editor.lineHeight": 24,
+"editor.letterSpacing": 0.5
+```
+
 ## Feedback and Support
 
 We’d love to hear your thoughts! Share your feedback, report issues, or suggest features by opening an issue in our [GitHub Repository](https://github.com/VanshArora16/Mystic-Nebula-Night-VSCodeTheme).
