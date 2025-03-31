@@ -935,8 +935,23 @@
 			"settings": {
 				"foreground": "#C3E88D" // Vibrant green for standout tags/entities
 			}
+		},
+		{
+			"name": "Unused Variable",
+			"scope": "variable.other.readwrite.unused",
+			"settings": {
+				"foreground": "#FF6F61",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Null or Undefined",
+			"scope": "constant.language.null",
+			"settings": {
+				"foreground": "#FFCC00",
+				"fontStyle": "bold"
+			}
 		}
-		
 		
 	]
 }
